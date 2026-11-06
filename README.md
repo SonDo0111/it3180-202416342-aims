@@ -12,5 +12,3 @@
 - Code IDE (VSCode Recommended)
 - GitHub: Tài khoản và SSH key
 - Partner
-
-
