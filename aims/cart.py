@@ -39,3 +39,9 @@ class Cart:
         for i, d in enumerate(self.items, 1):
             print(f"{i}. {d}")
         print(f"Total cost: {self.total_cost():.2f} $")
+
+    def sort_by_title(self):
+            self.items.sort(key=lambda d: d.title.lower())
+    
+    def sort_by_cost(self):
+            self.items.sort(key=lambda d: d.cost)
