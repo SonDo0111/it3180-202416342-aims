@@ -1,2 +1,2 @@
 def search_by_title(items, keyword):
-    return [d for d in items if keyword in d.title]
+    return [dvd for dvd in items if keyword.lower() in dvd.title.lower()]
