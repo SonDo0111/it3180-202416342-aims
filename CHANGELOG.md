@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+
+## [1.0.1] - 2026-11-03
+
+### Fixed
+
+- `search_by_title` không còn phân biệt hoa thường (#18)
+
 ## [1.0.0] - 2026-11-07
 
 ### Added
