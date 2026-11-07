@@ -2,9 +2,12 @@
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-11-07
+
 ### Added
 
-- Thêm hàm `Cart.sort_by_title()` và `Cart.sort_by_cost()` để thêm tính năng sắp xếp.
+- `search_by_category()` trong `aims/search.py`.
+- `Cart.sort_by_title()` và `Cart.sort_by_cost()`.
 
 ## [1.0.0] - 2026-11-07
 
