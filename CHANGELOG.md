@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Thêm hàm `Cart.sort_by_title()` và `Cart.sort_by_cost()` để thêm tính năng sắp xếp.
+
 ## [1.0.0] - 2026-11-07
 
 ### Added
